@@ -1,0 +1,6 @@
+C:\Projects\QueuePrototype\StatefulQueue\bin\Debug\netcoreapp3.1\StatefulQueue.deps.json
+C:\Projects\QueuePrototype\StatefulQueue\bin\Debug\netcoreapp3.1\StatefulQueue.dll
+C:\Projects\QueuePrototype\StatefulQueue\obj\Debug\netcoreapp3.1\StatefulQueue.csprojAssemblyReference.cache
+C:\Projects\QueuePrototype\StatefulQueue\obj\Debug\netcoreapp3.1\StatefulQueue.AssemblyInfoInputs.cache
+C:\Projects\QueuePrototype\StatefulQueue\obj\Debug\netcoreapp3.1\StatefulQueue.AssemblyInfo.cs
+C:\Projects\QueuePrototype\StatefulQueue\obj\Debug\netcoreapp3.1\StatefulQueue.csproj.CoreCompileInputs.cache
